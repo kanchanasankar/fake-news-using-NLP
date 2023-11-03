@@ -15,7 +15,7 @@ We used a real-world dataset provided for our project by IBM named "MY CHATBOT" 
 
 ## Development Phase 1 
 ### Model Building (Phase 3)
-- [Model Building ](AI_Phase3_ipynb_Colaboratory.ipynb)
+- [Model Building ](AI_PHASE3_KANCHANA SANKAR.pdf)
 
 ## Development Phase 2
 ### Testing and Evaluation (Phase 4)
