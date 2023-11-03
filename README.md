@@ -23,7 +23,7 @@ We used a real-world dataset provided for our project by IBM named "MY CHATBOT" 
 
 ## Final Submission 
 ### Documentation (Phase 5)
-- [Project Documentation](AI_PHASE5.doc)
+- [Project Documentation](AI_PHASE5_KANCHANA_SANKAR.pdf)
 ### Code File 
 - [Complete Code File ](AI_5.ipynb)
   ## How to run
