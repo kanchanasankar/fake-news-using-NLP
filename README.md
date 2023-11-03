@@ -19,7 +19,7 @@ We used a real-world dataset provided for our project by IBM named "MY CHATBOT" 
 
 ## Development Phase 2
 ### Testing and Evaluation (Phase 4)
-- [Model Testing and Evaluation(AI_Phase4.docx)](https://github.com/Srirakshana/phase1/blob/main/AI_PHASE%20%204.docx)
+- [Model Testing and Evaluation(AI_phase4_KANCHANA.pdf)
 
 ## Final Submission 
 ### Documentation (Phase 5)
