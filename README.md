@@ -25,7 +25,7 @@ We used a real-world dataset provided for our project by IBM named "MY CHATBOT" 
 ### Documentation (Phase 5)
 - [Project Documentation](https://github.com/kanchanasankar/fake-news-using-NLP/blob/main/AI_PHASE5_KANCHANA_SANKAR.pdf)
 ### Code File 
-- [Complete Code File ](AI_5.ipynb)
+- [Complete Code File ](AI.ipynb)
   ## How to run
   To run this code use colab ,and to avoid error download the dataset that has mentioned before.
   ##Description
