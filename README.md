@@ -11,7 +11,7 @@ We used a real-world dataset provided for our project by IBM named "MY CHATBOT" 
 ## Design Thinking (Phase 1)
 [Design Thinking Document (AI_Phase1.pdf)](https://github.com/kanchanasankar/fake-news-using-NLP/blob/main/fake%20news.pdf)
 ##  (Phase 2)
-- [Innovation Document(AI_Phase2.pdf)]([AI-PHASE 2.pdf](https://github.com/Srirakshana/phase1/blob/main/AI-PHASE%202.pdf))
+- [Innovation Document(AI_Phase2.pdf)]([AI-PHASE 2.pdf](
 
 ## Development Phase 1 
 ### Model Building (Phase 3)
